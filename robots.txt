@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://access-mark.github.io/TURBINE-WEB01-V4-GOLD-FOUNDER-REVIEW-R1-GitHub-Review/sitemap.xml
