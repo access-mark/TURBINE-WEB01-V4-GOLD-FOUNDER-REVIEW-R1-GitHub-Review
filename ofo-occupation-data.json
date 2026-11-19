@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "major_group_labels": {
+      "1": "Managers",
+      "2": "Professionals",
+      "3": "Technicians and associate professionals",
+      "4": "Clerical support workers",
+      "5": "Service and sales workers",
+      "6": "Skilled agricultural, forestry, fishery, craft and related trades workers",
+      "7": "Plant and machine operators and assemblers",
+      "8": "Elementary occupations"
+    },
+    "official_rows": 0,
+    "source_sha256": null,
+    "source_url": "https://www.fasset.org.za/downloads/Updated%20FINAL%20OFO%20VERSION%202021.xlsx",
+    "status": "BLOCKED_OFO_MASTER_NOT_AVAILABLE"
+  },
+  "roles": [],
+  "version": "2021"
+}
